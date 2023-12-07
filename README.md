@@ -5,3 +5,6 @@
 
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, 
 you’ll perform data modeling, data engineering, and data analysis, respectively.
+
+## Data Engineering
+![image](https://github.com/eferna1/sql-challenge/assets/145945547/ff457dd2-b8e5-4f9c-8af2-0d350ac29573)
